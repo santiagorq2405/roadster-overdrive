@@ -1,0 +1,10 @@
+Earth imagery: "Blue Marble Next Generation w/ Topography and Bathymetry" (December 2004)
+NASA Earth Observatory, image by Reto Stöckli, NASA Goddard Space Flight Center.
+https://visibleearth.nasa.gov/images/73909
+
+NASA imagery is generally not subject to copyright in the United States and may be used
+for any purpose, including commercial use, per the NASA media usage guidelines
+(https://www.nasa.gov/nasa-brand-center/images-and-media/). NASA does not endorse this game.
+
+Modifications: downscaled from 5400x2700 to 2048x1024 and re-encoded as WebP
+(assets/textures/earth/day.webp).

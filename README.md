@@ -10,4 +10,4 @@ Play it at https://muskratroadster.com. This repository only contains a compiled
 - Third-party content: traffic & debris models from Kenney's Car Kit (CC0, kenney.nl); fonts Saira & Saira Stencil One (SIL OFL 1.1); three.js (MIT). License texts are in `licenses/`.
 - Music and sound effects are synthesized in the browser; vehicles and world are procedural and original.
 
-Unofficial fan-made parody game. Not affiliated with, sponsored or endorsed by Tesla, SpaceX or Elon Musk.
+Unofficial fan parody. Not affiliated with or sponsored by Tesla, SpaceX or Elon Musk.

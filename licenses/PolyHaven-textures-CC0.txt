@@ -1,0 +1,15 @@
+Surface textures from Poly Haven (https://polyhaven.com)
+
+  clean_asphalt            "Clean Asphalt"            by Dimitrios Savva   -> assets/textures/asphalt/
+  concrete_floor_02        "Concrete Floor 02"        by Rob Tuytel        -> assets/textures/concrete/
+  red_laterite_soil_stones "Red Laterite Soil Stones" by Amal Kumar        -> assets/textures/mars/
+  aerial_grass_rock        "Aerial Grass Rock"        by Rob Tuytel        -> assets/textures/grass/
+  coast_sand_01            "Coast Sand 01"            by Rob Tuytel        -> assets/textures/sand/
+
+License: Creative Commons Zero (CC0 1.0 Universal), public domain dedication.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Modifications: the 1k JPG maps (diffuse, OpenGL normal, ARM) were re-encoded as WebP;
+the mars, grass and sand sets were downscaled to 512 px. Attribution is not required;
+the authors are credited here and in THIRD_PARTY.md anyway.
